@@ -1,4 +1,4 @@
-from vehiculo import Vehiculo
+from superclase.vehiculo import Vehiculo
 
 class Bicicleta(Vehiculo):
     def __init__(self, color, ruedas, tipo):
